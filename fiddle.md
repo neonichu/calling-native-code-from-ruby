@@ -12,6 +12,18 @@
 
 ---
 
+![inline](images/ratio.png)
+
+![](images/ruby.jpg)
+
+---
+
+![inline](images/token-white-male.png)
+
+![](images/ruby.jpg)
+
+---
+
 ## We want to use some existing native library or system functionality
 
 ![](images/cogs.jpg)
@@ -37,6 +49,12 @@
 - Used to include a C extension
 
 ![](images/Xcode.png)
+
+---
+
+# There were sooo many issues
+
+![](images/crash.gif)
 
 ---
 
